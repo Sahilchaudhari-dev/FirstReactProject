@@ -7,7 +7,6 @@ function App() {
   return (
     <>
       <div className="App">shkdjhasgdjh</div>
-      <App2 name={name} />
       <div>dbhfg</div>
     </>
   );
