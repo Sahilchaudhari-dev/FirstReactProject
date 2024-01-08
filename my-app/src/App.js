@@ -6,7 +6,7 @@ function App() {
   const name = "sahil";
   return (
     <>
-      <div className="App">shkdjhasgdjh</div>
+      <div className="App">React app</div>
       <App2 name={name} />
       <div>dbhfg</div>
     </>
