@@ -8,7 +8,7 @@ function App() {
     <>
       <div className="App">React app</div>
       <App2 name={name} />
-      <div>dbhfg</div>
+    
     </>
   );
 }
